@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Name 1",
+    "category": "Category 1",
+  },
+  {
+    "id": 2,
+    "name": "Name 2",
+    "category": "Category 3",
+  },
+  {
+    "id": 3,
+    "name": "Name 3",
+    "category": "Category 3",
+  }
+]
